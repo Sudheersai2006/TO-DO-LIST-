@@ -29,3 +29,4 @@ To run this project on your local machine.
 A short demo of this project has been shared on my LinkedIn as part of my internship task with InternPe.
 
 # 📸 Preview
+<img width="1896" height="594" alt="Image" src="https://github.com/user-attachments/assets/1410284e-7aa6-4fdf-b0e0-89a8e2394753" />
